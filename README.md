@@ -176,7 +176,9 @@ extensively in this research for uncovering unknown instructions.
 
 (TODO: link to whitepaper)
 
-(TODO: link to slides)
+* http://i.blackhat.com/us-18/Thu-August-9/us-18-Domas-God-Mode-Unlocked-Hardware-Backdoors-In-x86-CPUs.pdf
+
+	Def Con 26 presentation slides.  10 August 2018
 
 ### Disclaimer
 
